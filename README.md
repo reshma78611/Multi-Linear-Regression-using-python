@@ -38,25 +38,15 @@ In **Supervised Learning** we have :
                        
  
 ## Data used:
-        Cars,50_startups,ToyotaCorolla
+        Cars: we are predicting MPG depending on HP,VOL,SP,WT using Multi-Linear Model,
+        50_startups: Using Multi-Linear model predicting profit depending upon R&D spend,Administration,Marketing Spend,state
+        ToyotaCorolla: Predicting Price of Toyota depending on its Age,Manufacture date and so on
         
         
 ## Programming:
-         Python
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        Python
+        
+        
+## **The Codes regarding this Multi-Linear model with three different business problems *Cars MPG prediction* ,*Start-ups profit prediction*, *Toyota price prediction* with their datasets are present in this Repository in detail**
 
 
