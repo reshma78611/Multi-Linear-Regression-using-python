@@ -47,6 +47,6 @@ In **Supervised Learning** we have :
         Python
         
         
-## **The Codes regarding this Multi-Linear Regression model with three different business problems *Cars MPG prediction* ,*Start-ups profit prediction*, *Toyota price prediction* with their datasets are present in this Repository in detail**
+**The Codes regarding this Multi-Linear Regression model with three different business problems *Cars MPG prediction* ,*Start-ups profit prediction*, *Toyota price prediction* with their datasets are present in this Repository in detail**
 
 
